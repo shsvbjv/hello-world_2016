@@ -13,3 +13,9 @@ Detail examples can be found at "https://guides.github.com/activities/hello-worl
 Don't forget to also get the latest Android Studio (Version 2.2, as of 9/19/2016).
 
 Congrats!!
+
+
+~~~~~~~~~  Add your names under this line, so we know that you are GitHub ready!! ~~~~~~~~
+ 1. Steve (mentor)
+ 2. <add name>
+ 3. 
