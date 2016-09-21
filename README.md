@@ -10,7 +10,10 @@ Play with the tool, to get familiar on how to
  * "merge" a pull request back into main.
 
 Detail examples can be found at "https://guides.github.com/activities/hello-world/".
-Don't forget to also get the latest Android Studio (Version 2.2, as of 9/19/2016).
+Note not to create a new repository in Step 1 of above example.  You want to create a branch
+from this "shsvbjv / hello-world" repository; so you can add your name to this file.
+
+Don't forget to also get the latest Android Studio (Version 2.2, as of 9/19/2016) for IDE.
 
 Congrats!!
 
