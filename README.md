@@ -25,4 +25,4 @@ Congrats!!
  2. Arun Katkere (technical mentor/software)
  3. Shivam Mani
  4. LaiLing Chiou (software mentor)
- 5. 
+ 5. Shreya Katkere
