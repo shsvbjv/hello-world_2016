@@ -26,3 +26,4 @@ Congrats!!
  3. Shivam Mani
  4. LaiLing Chiou (software mentor)
  5. Shreya Katkere
+ 6. Nandini Thakur
