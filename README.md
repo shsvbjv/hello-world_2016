@@ -27,4 +27,4 @@ Congrats!!
  4. LaiLing Chiou (software mentor)
  5. Shreya Katkere
  6. Nandini Thakur
- 7. Sanya Kwatra
+ 7. Sanya 
